@@ -31,7 +31,6 @@ npm run show-report
 npx playwright show-report
 ```
 
-- The generated report is available at [playwright-report/index.html](playwright-report/index.html#L1).
 
 **Tests location:**
 - Test files are in the `tests` folder, for example: [tests/IT23749870- transliteration.spec.ts](tests/IT23749870-%20transliteration.spec.ts#L1).
